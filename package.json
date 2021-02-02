@@ -1,5 +1,5 @@
 {
-  "name": "play.tailwindcss.com",
+  "name": "tailwind-playground",
   "private": true,
   "scripts": {
     "dev": "next dev",
